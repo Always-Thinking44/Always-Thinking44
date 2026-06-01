@@ -38,7 +38,7 @@
 <h2>Atividade no GitHub</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Always-Thinking44&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Always-Thinking44&theme=tokyonight&zone=Africa/Luanda" />
 </div>
 
 ---
