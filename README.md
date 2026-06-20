@@ -1,4 +1,4 @@
-## Aijá Gourgel
+## Hello! I'm Aijá Gourgel <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 <h2>Tecnologias e Ferramentas</h2>
