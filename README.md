@@ -25,7 +25,7 @@
   <!-- OUTRAS -->
   <div>
     <h3>Outras</h3>
-    <!--<img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">-->
+    <img alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
@@ -42,6 +42,14 @@
 </div>
 
 ---
+
+
+<!--## GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Always-Thinking44&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Always-Thinking44&langs_count=4&hide_values=true&theme=chartreuse-dark" />
+</p>-->
 
 <!--<h2>Estatísticas detalhadas</h2>
 
